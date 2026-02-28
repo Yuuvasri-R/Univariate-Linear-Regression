@@ -19,8 +19,7 @@ Program to develop to implement univariate Linear Regression to fit a straight l
 
 Developed by : Yuuvasri R
 Register no : 212225230313
-```
-```
+
 import numpy as np
 import matplotlib.pyplot as plt
 X= np.array([0,1,2,3,4,5,6,7,8,9])
@@ -117,6 +116,109 @@ Thus the univariate Linear Regression was implemented to fit a straight line usi
 
 
 .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
